@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Calculator", "..\..\..\Desktop\Calculator\", "{E0B353EE-9C12-4BDE-B9A1-D6E5817C3535}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61106"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\Calculator\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61106\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61106"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\Calculator\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61106\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61106"
+		SlnRelativePath = "..\..\..\Desktop\Calculator\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B353EE-9C12-4BDE-B9A1-D6E5817C3535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B353EE-9C12-4BDE-B9A1-D6E5817C3535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C9BBC09-08C2-40E0-877C-D0FB2C9F7372}
+	EndGlobalSection
+EndGlobal
